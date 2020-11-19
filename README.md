@@ -1,5 +1,5 @@
 # Padrao de Projeto Command GOF
-## Programa que auxilia na administração de um estoque adicionando e removendo itens utilizando padrão de projeto Command - GOF
+## Programa que auxilia na administração de um estoque adicionando e removendo itens utilizando padrão de projeto Command - GOF :package:
 
 ### Linguagem Java
 
@@ -17,7 +17,7 @@ Aplicabilidade:
 - Estruturar um sistema em torno de operações de alto nível construídas sobre operações primitivas. Tal estrutura é comum em sistema de informação que suportam transações. Uma transação encapsula um conjunto de mudanças nos dados. O padrão Command fornece uma maneira de modelar transações. Os Commands têm uma interface comum, permitindo invocar todas transações da mesma maneira. O padrão também torna mais fácil estender o sistema com novas transações.
 
 #### Estrutura
-![Estrutura Command]()
+![Estrutura Command](https://github.com/camimassaneiro/Padrao-de-Projeto-Command-GOF/blob/master/Estrutura%20Command.PNG)
 
 Referência:
 GAMMA, E. et al. Padrões de projeto: soluções reutilizáveis de software orientado a objetos.
